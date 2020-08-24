@@ -6,6 +6,7 @@ public class InputOutput {
     public static void main(String[] args) {
         // Creating a scanner instance
         // System.in is a standard input stream
+        // scanner = Scanner(System.in)
         Scanner scanner = new Scanner(System.in);
 
         // Integers

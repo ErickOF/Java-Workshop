@@ -40,6 +40,7 @@ public class ClassStructure {
      * @return result to add a and b.
      */
     public int sum(int a, int b) {
+        // Returns
         return a + b;
     }
 

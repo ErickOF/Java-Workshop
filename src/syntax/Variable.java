@@ -16,7 +16,7 @@ public class Variable {
         // size: 8 bytes. Stores fractional numbers. Sufficient for storing 15 decimal digits.
         double doubleNumber = 10e15d;
         // size: 2 bytes. Stores a single character/letter or ASCII values.
-        char letter = 'a';
+        char letter = 'a'; // '\n'
         // size: 2 bytes. Stores whole numbers from -32,768 to 32,767.
         String string = "Hello";
         // size: 1 bit. Stores true or false values.

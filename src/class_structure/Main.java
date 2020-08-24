@@ -7,6 +7,7 @@ public class Main {
         ClassStructure.staticPrint("\n");
 
         // Creating a class instance
+        // classStructure = ClassStructure()
         ClassStructure classStructure = new ClassStructure();
 
         // Add to numbers
@@ -17,7 +18,7 @@ public class Main {
         ClassStructure.staticPrint("\n");
 
         // Working with an array
-        double[] data = {1.0d, 2.0d, 3.0d};
+        double[] data = { 1.0d, 2.0d, 3.0d };
         System.out.println("Avg: " + classStructure.average(data) + "\n");
 
         // Print array
